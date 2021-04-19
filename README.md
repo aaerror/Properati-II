@@ -16,7 +16,7 @@ El trabajo se organiza en tres partes:
     * Imputación de valores faltantes.
     * Detección y eliminación de Outliers.
     * Escalado de datos.
-    * Generación de nuevas variables predictoras/reducción de dimensionalidad (SVD/PCA).
+    * Generación de nuevas variables predictoras/reducción de dimensionalidad (SVD/PCA)
     
   
   Vuelve a entrenar el modelo implementado en la Entrega 01 —*en particular, el árbol de decisión—* y evalúa su desempeño a partir del dataset obtenido luego de transformar los datos. ¿Hay una mejora en su desempeño? Sea cual sea la respuesta, intenta explicar a qué se debe.
